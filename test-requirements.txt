@@ -1,0 +1,2 @@
+# https://github.com/OCA/server-backend/pull/165
+git+https://github.com/OCA/server-backend@refs/pull/165/head#subdirectory=setup/base_global_discount
